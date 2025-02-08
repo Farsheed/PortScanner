@@ -1,6 +1,8 @@
 # Port Scanner
 A network utility tool for scanning TCP ports and identifying running services.
 
+**Please use responsibly.**
+
 ## Description
 
 This Port Scanner is a tool designed to scan network ports and identify services running on target systems. It utilizes a comprehensive database of well-known ports and services based on IANA's Service Name and Port Number Registry.
